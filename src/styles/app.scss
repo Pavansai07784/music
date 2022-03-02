@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: rgb(169, 186, 189);
+}
+h1,h2,h3{
+    color: rgb(120, 148, 148);
+}
+
+@import "./player";
+@import "./song";   
